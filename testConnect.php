@@ -5,7 +5,7 @@ RPGcoinRPC-PHP Connection Test
 
 A basic example of how to disply node info and confirm that connection 
 has successfully been established to the RPC host on the server.
-https://github.com/HazeDevelopment/rpgcoinrpc-php/
+https://github.com/RPGCoin/rpgcoin-rpcphp/
 ====================
 */
 //Include RPGcoinRPC-PHP class
