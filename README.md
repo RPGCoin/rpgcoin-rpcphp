@@ -14,7 +14,7 @@ You can specify a host and port (Optional).
 $rpgcoin = new RPGcoin('username','password','host','port');
 Default connection settings:
 host = localhost
-port = 7214
+port = 7210
 proto = http
 ```
 For an SSL connection you can set a CA certificate or leave blank

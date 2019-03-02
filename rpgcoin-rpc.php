@@ -11,7 +11,7 @@ https://github.com/RPGCoin/RPGCoin-RPCPHP
 //$rpgcoin = new RPGcoin('username','password','host','port');
 // Default connection settings:
 //	host = localhost
-//	port = 7214
+//	port = 7210
 //	proto = http
 
 // For an SSL connection you can set a CA certificate or leave blank
@@ -53,7 +53,7 @@ class RPGcoin {
      * @param string $proto
      * @param string $url
      */
-    function __construct($username, $password, $host = 'localhost', $port = 7214, $url = null) {
+    function __construct($username, $password, $host = 'localhost', $port = 7210, $url = null) {
         $this->username      = $username;
         $this->password      = $password;
         $this->host          = $host;

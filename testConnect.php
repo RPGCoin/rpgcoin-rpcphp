@@ -14,7 +14,7 @@ require_once('rpgcoin-rpc.php');
 //Initialize RPGCoin connection/object with default host/port
 //$rpgcoin = new RPGcoin('user','pass');
 //Or specify a host and port.
-$rpgcoin = new RPGcoin('user','pass','localhost','7214');
+$rpgcoin = new RPGcoin('user','pass','localhost','7210');
 
 //Get info on the rpgd daemon
 $rpgcoin->getinfo();
